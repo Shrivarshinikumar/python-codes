@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 year = int(input("enter a year"))
 
 if (year %400==0)and (year%100==0):
@@ -8,3 +9,15 @@ elif(year %4==0)and(year%100!=0):
 
 else:
     print(year,"is not a leap year ")
+=======
+year = int(input("enter a year"))
+
+if (year %400==0)and (year%100==0):
+    print(year,"is a leap year")
+
+elif(year %4==0)and(year%100!=0):
+    print(year,"is a leap year")
+
+else:
+    print(year,"is not a leap year ")
+>>>>>>> 6526d46041d0e6af7f4d8cafcf9877ca18237943
