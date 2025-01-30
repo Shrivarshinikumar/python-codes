@@ -26,4 +26,4 @@ if(num<0):
 else:
     print(f"factorial of {num} is {factorial(num)}.")
 
->>>>>>> 6526d46041d0e6af7f4d8cafcf9877ca18237943
+
