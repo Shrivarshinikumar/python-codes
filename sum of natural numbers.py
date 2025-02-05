@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 num = int(input("enter a number here:"))
 
 if num<0:
