@@ -1,4 +1,4 @@
-num1 =int(input("enter a number"))
+29num1 =int(input("enter a number"))
 num2 =int(input("enter a number"))
 def add_and_sub(num1,num2):
     add= num1+num2
